@@ -33,3 +33,19 @@ julia> DocumenterTools.genkeys(user = "tp2750",repo = "DocPlotTest.jl")
 
 Follow the instructions adding the keys.
 
+# Log
+
+## 2022-03-26 session
+
+-  06:40: github
+-  06:41: PkgTemplate
+-  06:49: write readme
+-  06:54 git push --set-upstream origin main
+-  06:55 check CI
+-  06:58 dev documentation is up https://tp2750.github.io/DocPlotTest.jl/dev/
+- 07:00 tag v0.0.1 initial relese
+- 07:08: stable documentation is there
+- 07:08: add 01_documenter-plot.jl
+- 07:13: test locally
+- 07:16 working locally
+- 07:16 push
