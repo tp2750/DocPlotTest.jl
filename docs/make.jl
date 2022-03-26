@@ -15,6 +15,7 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "Documenter plot" => "01_documenter-plot.md",
     ],
 )
 
