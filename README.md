@@ -49,3 +49,4 @@ Follow the instructions adding the keys.
 - 07:13: test locally
 - 07:16 working locally
 - 07:16 push
+- 07:21: plotting section is included, but no plot showing. Tag: v0.0.2
